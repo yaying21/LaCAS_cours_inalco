@@ -2,12 +2,12 @@
 
 Mots-clés : Python(Pandas), SPARQL, Ontologie, Excel, RDFs, Regex
 
-Objectifs du projet
+### Objectifs du projet ####
 1. Conversion des données d'excel des cours d'Inalco
 
 2. Importation données convertes sur la plateforme
 
-Structure du code
+### Structure du code ####
 
 . Créer des regex pattern afin de récupérer le nom et prénom d'enseignants
 
