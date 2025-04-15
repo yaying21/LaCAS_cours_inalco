@@ -41,9 +41,9 @@ Mots-clés : Python(Pandas), SPARQL, Ontologie, Excel, RDFs, Regex
   
 . Recupérer des URIs d'enseignants avec des requêtes SPARQL de nom et prénom  : 
 
-  def find_individual(okapi_url, opener, firstname, lastname) 
+    def find_individual(okapi_url, opener, firstname, lastname) 
 
-  def find_individual_lastname(okapi_url, opener, lastname)
+    def find_individual_lastname(okapi_url, opener, lastname)
 
 
 . Avec Pandas lire des données d'excel et créer des triplets pour chaque donnée
