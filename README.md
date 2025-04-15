@@ -28,7 +28,7 @@ Mots-clés : Python(Pandas), SPARQL, Ontologie, Excel, RDFs, Regex
      
   7. Erreur entre nom et prénom, par exemple, « LIWEN Chen »
 
-  def find_last_first_name (row_name,first_name = "None", last_name = "None")
+    Exemple d'un regex pattern :  def find_last_first_name (row_name,first_name = "None", last_name = "None")
 
   
 . Recupérer des URIs d'enseignants avec des requêtes SPARQL de nom et prénom  : 
